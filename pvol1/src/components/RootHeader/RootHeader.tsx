@@ -11,6 +11,7 @@ let useStyles = createUseStyles({
     width: '100vw',
     minHeight: '35px',
     height: '4vh',
+    position: 'fixed'
   }
 })
 
